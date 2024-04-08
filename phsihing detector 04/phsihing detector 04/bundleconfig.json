@@ -1,0 +1,50 @@
+[
+  {
+    "outputFileName": "js/background.min.js",
+    "inputFiles": [
+      "js/background.js"
+    ]
+  },
+  {
+    "outputFileName": "js/endScript.min.js",
+    "inputFiles": [
+      "js/endScript.js"
+    ]
+  },
+  {
+    "outputFileName": "js/md5.min.js",
+    "inputFiles": [
+      "js/md5.js"
+    ]
+  },
+  {
+    "outputFileName": "js/options.min.js",
+    "inputFiles": [
+      "js/options.js"
+    ]
+  },
+  {
+    "outputFileName": "js/pageUtils.min.js",
+    "inputFiles": [
+      "js/pageUtils.js"
+    ]
+  },
+  {
+    "outputFileName": "js/parseUri.min.js",
+    "inputFiles": [
+      "js/parseUri.js"
+    ]
+  },
+  {
+    "outputFileName": "js/popup.min.js",
+    "inputFiles": [
+      "js/popup.js"
+    ]
+  },
+  {
+    "outputFileName": "css/styles.min.css",
+    "inputFiles": [
+      "css/styles.css"
+    ]
+  }
+]
